@@ -88,7 +88,7 @@ const Homepage: React.FC = () => {
     <div>
       <div>
         <span style={{ fontSize: "2rem", marginRight: "4vh" }}>
-          Convoy's Game of Life
+          Conway's Game of Life
         </span>
         <button onClick={() => setRunning(!running)}>
           {running ? "STOP" : "START"}
