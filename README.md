@@ -2,7 +2,7 @@
 Just a fun little project.   
 
 
-try it [here](https://conways-game-of-life-delta.vercel.app/).
+Try it [here](https://conways-game-of-life-delta.vercel.app/).
 
 ## How to start
 
